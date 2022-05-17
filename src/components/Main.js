@@ -14,6 +14,7 @@ import { FaRegHandPointer } from 'react-icons/fa';
 
 const MainContainer = styled.div`
 background: ${props => props.theme.body};
+background-size: cover;
 width: 100vw;
 height: 100vh;
 overflow:hidden;
